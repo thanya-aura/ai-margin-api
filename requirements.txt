@@ -1,1 +1,5 @@
-# requirements.txt - placeholder
+fastapi
+uvicorn
+pandas
+openpyxl
+numpy
